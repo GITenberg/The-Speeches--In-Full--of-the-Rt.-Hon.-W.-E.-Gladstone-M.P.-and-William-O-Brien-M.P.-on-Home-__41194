@@ -1,0 +1,37 @@
+_repo: The-Speeches--In-Full--of-the-Rt.-Hon.-W.-E.-Gladstone-M.P.-and-William-O-Brien-M.P.-on-Home-__41194
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41194-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: O'Brien, William
+    birthdate: 1852
+    deathdate: 1928
+    gutenberg_agent_id: '41028'
+    url: http://www.gutenberg.org/2009/agents/41028
+  - agent_name: Gladstone, W. E. (William Ewart)
+    aliases:
+    - Gladstone, William Ewart
+    - Gladstone, William E. (William Ewart)
+    birthdate: 1809
+    deathdate: 1898
+    gutenberg_agent_id: '1195'
+    url: http://www.gutenberg.org/2009/agents/1195
+    wikipedia: http://en.wikipedia.org/wiki/William_Ewart_Gladstone
+description: ''
+gutenberg_issued: '2012-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 1837-1901'
+- !lcsh 'Home rule -- Ireland'
+- !lcc 'DA'
+title: The Speeches (In Full) of the Rt. Hon. W. E. Gladstone, M.P., and William O'Brien,
+  M.P., on Home Rule, Delivered in Parliament, Feb. 16 and 17, 1888.
+url: http://www.gutenberg.org/ebooks/41194
