@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1195
     wikipedia: http://en.wikipedia.org/wiki/William_Ewart_Gladstone
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41194#The-Speeches--In-Full--of-the-Rt.-Hon.-W.-E.-Gladstone-M.P.-and-William-O-Brien-M.P.-on-Home-_
 gutenberg_issued: '2012-10-27'
 gutenberg_type: Text
 identifiers:
